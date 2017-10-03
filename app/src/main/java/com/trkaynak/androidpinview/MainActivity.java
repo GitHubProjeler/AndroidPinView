@@ -7,7 +7,7 @@ import android.widget.Toast;
 import com.goodiebag.pinview.Pinview;
 
 public class MainActivity extends AppCompatActivity {
-
+//pin code 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
