@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onDataEntered(Pinview pinview, boolean b) {
                 Toast.makeText(MainActivity.this,""+pinview.getValue(),Toast.LENGTH_SHORT).show();
-                Toast.makeText(MainActivity.this,""+pinview.getValue(),Toast.LENGTH_SHORT).show();
+               //açıklama
             }
         });
 
